@@ -78,7 +78,7 @@
       </div>
       <div class="flex items-center justify-between p-4">
         <label for="mqtt-message" class="font-semibold text-secondaryLight">
-          {{ $t("mqtt.communication") }}
+          {{ $t("mqtt.communication_title") }}
         </label>
       </div>
       <div class="flex px-4 space-x-2">

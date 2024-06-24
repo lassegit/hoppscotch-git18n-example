@@ -38,7 +38,7 @@
     "yes": "да"
   },
   "add": {
-    "new": "Додај нови",
+    "new": "Додај нови (UNDEFINED!)",
     "star": "Додајте звездицу"
   },
   "app": {
@@ -283,7 +283,6 @@
     "import_export": "Увоз извоз"
   },
   "mqtt": {
-    "communication": "Комуникација",
     "log": "Пријава",
     "message": "Порука",
     "publish": "Публисх",
@@ -321,9 +320,6 @@
     "updated": "Profile updated",
     "viewer": "Viewer",
     "viewer_description": "Viewers can only view and use requests."
-  },
-  "remove": {
-    "star": "Уклони звездицу"
   },
   "request": {
     "added": "Захтев је додат",

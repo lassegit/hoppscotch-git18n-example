@@ -38,7 +38,7 @@
     "yes": "Ja"
   },
   "add": {
-    "new": "Voeg nuwe",
+    "new": "Voeg nuwe!! (Change from your favorite TMT!)",
     "star": "Voeg ster by"
   },
   "app": {
@@ -283,7 +283,6 @@
     "import_export": "Invoer uitvoer"
   },
   "mqtt": {
-    "communication": "Kommunikasie",
     "log": "Meld",
     "message": "Boodskap",
     "publish": "Publiseer",
@@ -321,9 +320,6 @@
     "updated": "Profile updated",
     "viewer": "Viewer",
     "viewer_description": "Viewers can only view and use requests."
-  },
-  "remove": {
-    "star": "Verwyder ster"
   },
   "request": {
     "added": "Versoek bygevoeg",

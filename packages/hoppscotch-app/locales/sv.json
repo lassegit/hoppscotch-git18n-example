@@ -38,7 +38,7 @@
     "yes": "Ja"
   },
   "add": {
-    "new": "Lägg till ny",
+    "new": "Lägg till ny (CHANGED!)!",
     "star": "Lägg till stjärna"
   },
   "app": {
@@ -283,7 +283,6 @@
     "import_export": "Import Export"
   },
   "mqtt": {
-    "communication": "Kommunikation",
     "log": "Logga",
     "message": "Meddelande",
     "publish": "Publicera",
@@ -321,9 +320,6 @@
     "updated": "Profile updated",
     "viewer": "Viewer",
     "viewer_description": "Viewers can only view and use requests."
-  },
-  "remove": {
-    "star": "Ta bort stjärnan"
   },
   "request": {
     "added": "Begäran har lagts till",

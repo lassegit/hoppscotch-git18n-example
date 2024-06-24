@@ -36,7 +36,7 @@
     />
     <ButtonSecondary
       v-tippy="{ theme: 'tooltip' }"
-      :title="!entry.star ? $t('add.star') : $t('remove.star')"
+      :title="!entry.star ? $t('add.star') : $t('remove_star')"
       :class="{ 'group-hover:inline-flex hidden': !entry.star }"
       :svg="entry.star ? 'star-solid' : 'star'"
       color="yellow"

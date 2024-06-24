@@ -43,11 +43,11 @@
     "yes": "Yes"
   },
   "add": {
-    "new": "Add new",
-    "star": "Add star"
+    "new": "Add new 🎉",
+    "star": "Add star ⭐️"
   },
   "app": {
-    "chat_with_us": "Chat with us",
+    "chat_with_us": "Chat with us!",
     "contact_us": "Contact us",
     "copy": "Copy",
     "copy_user_id": "Copy User Auth Token",
@@ -149,10 +149,10 @@
   },
   "documentation": {
     "generate": "Generate documentation",
-    "generate_message": "Import any Hoppscotch collection to generate API documentation on-the-go."
+    "generate_message": "Import any Hoppscotch collections and generate API documentation on-the-go."
   },
   "empty": {
-    "authorization": "This request does not use any authorization",
+    "authorization": "This request does not use any authorization!",
     "body": "This request does not have a body",
     "collection": "Collection is empty",
     "collections": "Collections are empty",
@@ -295,7 +295,7 @@
     "import_export": "Import / Export"
   },
   "mqtt": {
-    "communication": "Communication",
+    "communication_title": "Communication title (key updated)",
     "log": "Log",
     "message": "Message",
     "publish": "Publish",
@@ -334,9 +334,7 @@
     "viewer": "Viewer",
     "viewer_description": "Viewers can only view and use requests."
   },
-  "remove": {
-    "star": "Remove star"
-  },
+  "remove_star": "Remove star ⭐️",
   "request": {
     "added": "Request added",
     "authorization": "Authorization",
@@ -459,6 +457,9 @@
       "show_all": "Keyboard shortcuts",
       "title": "General"
     },
+    "test_shortcut": {
+      "lorem_ipsum": "hello world"
+    },
     "miscellaneous": {
       "invite": "Invite people to Hoppscotch",
       "title": "Miscellaneous"
@@ -472,7 +473,8 @@
       "realtime": "Go to Realtime page",
       "rest": "Go to REST page",
       "settings": "Go to Settings page",
-      "title": "Navigation"
+      "title": "Navigation",
+      "dummy_attr": "Just a dummy attribute for testing"
     },
     "request": {
       "copy_request_link": "Copy Request Link",
@@ -659,5 +661,25 @@
     "message": "Message",
     "protocols": "Protocols",
     "url": "URL"
+  },
+  "testing": {
+    "level_0": {
+      "title": "Level 0 title",
+      "level_1": {
+        "title": "Level 1 title",
+        "level_2": {
+          "title": "Level 2 title",
+          "level_3": {
+            "level_4": {
+              "title": "Level 4 title",
+              "level_5": {
+                "title": "Level 5 title",
+                "path": "level 5 path"
+              }
+            }
+          }
+        }
+      }
+    }
   }
 }

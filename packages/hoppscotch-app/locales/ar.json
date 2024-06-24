@@ -35,11 +35,12 @@
     "turn_off": "اطفئه",
     "turn_on": "شغله",
     "undo": "الغاء التحميل",
-    "yes": "نعم"
+    "yes": "نعم",
+    "autoscroll": "Updating empty arab autoscrol!"
   },
   "add": {
     "new": "اضف جديد",
-    "star": "أضف نجمة"
+    "star": "أضف نجمة (CHANGEE)!"
   },
   "app": {
     "chat_with_us": "دردش معنا",
@@ -283,7 +284,6 @@
     "import_export": "استيراد و تصدير"
   },
   "mqtt": {
-    "communication": "تواصل",
     "log": "سجل",
     "message": "رسالة",
     "publish": "ينشر",
@@ -292,7 +292,8 @@
     "topic_name": "اسم الموضوع",
     "topic_title": "نشر / اشتراك الموضوع",
     "unsubscribe": "إلغاء الاشتراك",
-    "url": "URL"
+    "url": "URL",
+    "communication_title": "تواصل"
   },
   "navigation": {
     "doc": "المستندات",
@@ -321,9 +322,6 @@
     "updated": "تم تحديث الملف الشخصي.",
     "viewer": "مشاهد",
     "viewer_description": "المشاهدون يمكنهم فقط رؤية و استعمال الطلبات."
-  },
-  "remove": {
-    "star": "إزالة النجمة"
   },
   "request": {
     "added": "تمت إضافة الطلب",

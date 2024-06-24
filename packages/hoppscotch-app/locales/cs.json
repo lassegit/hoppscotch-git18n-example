@@ -283,7 +283,6 @@
     "import_export": "Import Export"
   },
   "mqtt": {
-    "communication": "Sdělení",
     "log": "Záznam",
     "message": "Zpráva",
     "publish": "Publikovat",
@@ -321,9 +320,6 @@
     "updated": "Profile updated",
     "viewer": "Viewer",
     "viewer_description": "Viewers can only view and use requests."
-  },
-  "remove": {
-    "star": "Odstraňte hvězdu"
   },
   "request": {
     "added": "Žádost přidána",
@@ -616,5 +612,20 @@
     "message": "Zpráva",
     "protocols": "Protokoly",
     "url": "URL"
+  },
+  "testing": {
+    "level_0": {
+      "level_1": {
+        "level_2": {
+          "level_3": {
+            "level_4": {
+              "level_5": {
+                "path": "Level 5 path in Czech!"
+              }
+            }
+          }
+        }
+      }
+    }
   }
 }

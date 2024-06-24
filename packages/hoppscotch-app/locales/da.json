@@ -38,7 +38,7 @@
     "yes": "Ja"
   },
   "add": {
-    "new": "Tilføj ny",
+    "new": "Tilføj ny!!!",
     "star": "Tilføj stjerne"
   },
   "app": {
@@ -283,7 +283,6 @@
     "import_export": "Import Eksport"
   },
   "mqtt": {
-    "communication": "Meddelelse",
     "log": "Log",
     "message": "Besked",
     "publish": "Offentliggøre",
@@ -321,9 +320,6 @@
     "updated": "Profile updated",
     "viewer": "Viewer",
     "viewer_description": "Viewers can only view and use requests."
-  },
-  "remove": {
-    "star": "Fjern stjerne"
   },
   "request": {
     "added": "Anmodning tilføjet",
